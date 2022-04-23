@@ -1,0 +1,4 @@
+<meta>
+    <info description="Disable FBI Horn" version="1.0.0" author="Ozturk" type="script" />
+    <script src="server.lua" type="server" cache="false" />
+</meta>
